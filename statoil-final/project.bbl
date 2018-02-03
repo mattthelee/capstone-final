@@ -1,0 +1,65 @@
+\begin{thebibliography}{10}
+
+\bibitem{bentes}
+C.~A. Bentes~da Silva, A.~Frost, D.~Velotto, and B.~Tings.
+\newblock Ship-iceberg discrimination with convolutional neural networks in
+  high resolution sar images.
+\newblock In {\em 11th European Conference on Synthetic Aperture Radar
+  Electronic Proceedings, 06-09 June, 2016, Hamburg, Germany}, pages 491--494.
+  VDE Verlag GmbH, 2016.
+
+\bibitem{c-core}
+C-Core.
+\newblock \url{ "https://www.c-core.ca/IcebergSurveillance"}.
+\newblock Accessed: 28/12/2017.
+
+\bibitem{radarsat-mode-selection}
+A.~et~al.
+\newblock Radarsat-2 mode selection for maritime surveillance.
+\newblock pages 38--70, 2011.
+
+\bibitem{kaggle}
+Kaggle.com.
+\newblock
+  \url{"https://www.kaggle.com/c/statoil-iceberg-classifier-challenge"}.
+\newblock Accessed: 23/12/2017.
+
+\bibitem{logloss}
+Kaggle.com.
+\newblock \url{"https://www.kaggle.com/wiki/LogLoss"}.
+\newblock Accessed: 23/12/2017.
+
+\bibitem{angle-inject-kernel}
+Kaggle.com.
+\newblock
+  \url{"https://www.kaggle.com/devm2024/transfer-learning-with-vgg-16-cnn-aug-lb-0-1712"}.
+\newblock Accessed: 23/12/2017.
+
+\bibitem{keras-layers}
+Keras.
+\newblock \url{"https://keras.io/layers/merge/"}.
+\newblock Accessed: 23/12/2017.
+
+\bibitem{z-score}
+S.~Raschka.
+\newblock \url{
+  "http://sebastianraschka.com/Articles/2014_about_feature_scaling.html"}.
+\newblock Accessed: 03/01/2017.
+
+\bibitem{ruder2016overview}
+S.~Ruder.
+\newblock An overview of gradient descent optimization algorithms.
+\newblock {\em CoRR}, abs/1609.04747, 2016.
+
+\bibitem{unctad}
+UNCTAD.
+\newblock Review of marittime transport 2016.
+\newblock page~x, 2016.
+
+\bibitem{yu}
+P.~Yu, A.~K. Qin, and D.~A. Clausi.
+\newblock Feature extraction of dual-pol sar imagery for sea ice image
+  segmentation.
+\newblock {\em Canadian Journal of Remote Sensing}, 38(3):352--366, 2012.
+
+\end{thebibliography}
